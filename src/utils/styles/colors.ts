@@ -1,0 +1,7 @@
+export const COLORS = {
+  PRIMARY: '#140C2E',
+  YELLOW: '#FFC107',
+  BACKGROUND_BUTTON: '#133455',
+  TEXT: '#DADADA',
+  DARK_BLUE: '#151124',
+};
